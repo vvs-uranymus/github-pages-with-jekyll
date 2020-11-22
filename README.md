@@ -1,13 +1,14 @@
-# Your GitHub Learning Lab Repository for GitHub Pages
+Step 2: Customize your homepage
+Great job! Now that GitHub Pages is enabled, you can view your website here: https://vvs-uranymus.github.io/github-pages-with-jekyll/
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. 
+You can customize your homepage by adding content to either an index file or the README.md file. GitHub Pages first looks for an index file. If an index file is found, GitHub Pages uses the content in the file to create the homepage. If an index file isn’t found, it uses the README.md to create the homepage.
 
-Oh! I haven't introduced myself...
+Your repository has an index.md file so we can update it to include your personalized content.
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
-
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
-
-I'll meet you over there, can't wait to get started!
-
-This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+⌨️ Activity: Create your homepage
+Navigate to the Code tab of this repository, and browse to the index.md file, or click this link here
+In the upper right corner, click the octicon-pencil icon to edit the index.md file
+Type the content you want on your homepage
+Scroll to the bottom, type a commit message, and click Create a new branch for this commit and start a pull request
+Open a pull request
+Once you have created your pull request, I will move over there to discuss next steps.
